@@ -6,5 +6,12 @@ This is very useful for finding the url's of huge size image clusters.
 ## Requirements
 Firstly, we require selenium module of python. For installing it use the command below (Linux Users)
 ```
-pip install selenium
+  pip install selenium
 ```
+## Installation
+  - For using this tool, Firstly just clone this repository using the below command
+    ```
+      git clone 'https://github.com/ctarunsai/Google-Reverse-Image-Search-Python-Tool.git'
+    ```
+    
+
