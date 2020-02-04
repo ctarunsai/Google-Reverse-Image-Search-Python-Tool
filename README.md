@@ -4,10 +4,10 @@ This is a python based automation tool which can be used by researchers around t
 This is very useful for finding the url's of huge size image clusters. This tool is built for automating the Google Reverse Image Search Process.
 
 ## Requirements
-Firstly, we require selenium module of python. For installing it use the command below (Linux Users)
-```
-pip install selenium
-```
+  - Firstly, we require selenium module of python. For installing it use the command below (Linux Users)
+  ```
+  pip install selenium
+  ```
 ## Installation
   - For using this tool, Firstly just clone this repository using the below command (if you are familiar with *git*)
     ```
