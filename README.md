@@ -1,6 +1,6 @@
 # Google-Reverse-Image-Search-Python-Tool
 
-This is a python based automation tool which can be used by researchers around the world.It'll take a image file path (location) in a system and it'll return the website links, in which the image is present.
+This is a python based automation tool which can be used by researchers around the world. It'll take a image file path (location) in a system and it'll return the website links, in which the image is present.
 This is very useful for finding the url's of huge size image clusters. This tool is built for automating the Google Reverse Image Search Process.
 
 ## Requirements
